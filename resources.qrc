@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/background.png</file>
+        <file>images/Hamburger.png</file>
+        <file>images/hang.png</file>
+        <file>images/miss1.png</file>
+        <file>images/miss2.png</file>
+        <file>images/miss3.png</file>
+        <file>images/miss4.png</file>
+        <file>images/miss5.png</file>
+        <file>images/miss6.png</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file>csv/words.txt</file>
+    </qresource>
+    <qresource prefix="/aud">
+        <file>audio/click.wav</file>
+        <file>audio/lose.wav</file>
+        <file>audio/soundtrack.wav</file>
+        <file>audio/win.wav</file>
+    </qresource>
+</RCC>

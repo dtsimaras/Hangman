@@ -1,0 +1,44 @@
+Afghanistan, Country Name
+Albania, Country Name
+Argentina, Country Name
+Australia, Country Name
+Austria, Country Name
+Azerbaijan, Country Name
+Bahamas, Country Name
+Bahrain, Country Name
+Bangladesh, Country Name
+Belgium, Country Name
+Brazil, Country Name
+Bulgaria, Country Name
+Cameroon, Country Name
+Canada, Country Name
+Chile, Country Name
+China, Country Name
+Costa Rica, Country Name
+Cuba, Country Name
+Ape, Animal
+Wolf, Animal
+Monkey, Animal
+Donkey, Animal
+Horse, Animal
+Armadillo, Animal
+Cat, Animal
+Dog, Animal
+Bear, Animal
+Bongo, Animal
+Fox, Animal
+Snake, Animal
+Goose, Animal
+Cougar, Animal
+dinosaur, Animal
+falcon, Animal
+anchovy, Food
+bacon, Food
+beef, Food
+hamburger, Food
+berry, Food
+orange, Food
+apple, Food
+banana, Food
+cereal, Food
+coconut, Food
